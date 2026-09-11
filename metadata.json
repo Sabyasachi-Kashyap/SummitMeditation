@@ -1,0 +1,8 @@
+{
+  "name": "Summit Meditation",
+  "description": "A serene cinematic experience of mountain summit meditation at sunrise with slow camera push-in, procedural ambient wind and birds, and guided rhythmic breathing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
